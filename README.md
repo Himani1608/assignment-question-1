@@ -27,3 +27,7 @@
 - run storybook `npm run storybook`
 
 1. Please add storybook to one of the components
+
+## Gh-pages Deployment
+
+https://himani1608.github.io/assignment-question-1/
